@@ -1,7 +1,5 @@
 def sum_of_list(numbers):
-    """
-    Calculate sum of all numbers in a list without using sum().
-    """
+  
     total = 0
     for num in numbers:
         total += num

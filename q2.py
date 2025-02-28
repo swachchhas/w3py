@@ -9,4 +9,4 @@ def find_maximum(list1):
     return maximum
 print("\nTesting find_maximum:")
 result = find_maximum([10, 25, 5, 80, 30])
-print(f"find_maximum([10, 25, 5, 80, 30]) = {result}")
+print(f"find_maximum([10, 25, 5, 80, 30]) = ",result)

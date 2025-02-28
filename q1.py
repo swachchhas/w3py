@@ -5,4 +5,4 @@ def count_vowels(text):
                if char in vowels)
 print("Testing count_vowels:")
 result = count_vowels("Hello World")
-print(f"count_vowels('Hello World') = {result}") 
+print("count_vowels('Hello World') =", result) 
